@@ -1,0 +1,2 @@
+RewriteEngine on
+Redirect 301 moment.html https://cdn.discordapp.com/attachments/896572185798410262/1120000548809220287/image.png
