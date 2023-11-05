@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Liamatic</title>
+<meta property="og:title" content="LinkFork | Link Preview Customization">
+</head>
+<script>
+function getRandomImage() {
+var liamatic = new Array();
+//add arrays
+randomImage[0] = "https://cdn.discordapp.com/attachments/899383846632562752/1110050132554170389/image.png";  
+randomImage[1] = "https://cdn.discordapp.com/attachments/899383846632562752/1110053525083394048/image.png";  
+randomImage[2] = "https://cdn.discordapp.com/attachments/899383846632562752/1110224589075779644/image.png";  
+}
+  
+</script>
+<body>
+<img src="https://cdn.discordapp.com/attachments/899383846632562752/1110224589075779644/image.png"/>
+<p>
+test
+</p>
+
+</body>
+</html>
